@@ -1,0 +1,41 @@
+
+body {
+    background-color:#F5F5F5; 
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+}
+
+a:hover {
+    color: red; 
+}
+h2 {
+    font-size: 28px; 
+}
+
+.cat-image{
+    width: 600px; 
+    height: auto; 
+    border-radius: 10px; 
+    margin-bottom: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+}
+#cat-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto; 
+    max-width: 600px; 
+}
+
+#cat-list li {
+    text-align: center; 
+    font-size: 24px;
+}
+
+
+#hobbies-list li {
+    font-size: 24px;
+}
